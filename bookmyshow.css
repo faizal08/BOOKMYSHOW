@@ -1,0 +1,225 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Mulish', sans-serif;
+ }
+  
+ h2
+   {
+    display:inline;
+   } 
+
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+    background-color: rgb(42,42,68);
+    }
+
+#logo{
+      height: 30px;
+      margin-top: 15px;
+      margin-bottom: 15px;
+     }
+
+#searchbox {
+            height: 30px;
+            margin-bottom: 15px;
+           }  
+
+#worldcup {
+            margin-top: 40px;
+            margin-left: 150px;
+            margin-bottom: 10px;
+            width: 1200px;
+            height: 110px;
+          } 
+
+   #bmsad
+          {
+            margin-top: 40px;
+            margin-left: 150px;
+            margin-bottom: 10px;
+            width: 1200px;
+            height: 110px;
+          }  
+
+.fnav .left{
+            display: flex;
+           }
+
+.left img{
+          width: 22%;
+         }
+
+.left input{
+            margin-inline: 11px;
+            width: 420px;
+            height: 33px;
+            border: none;
+            outline: none;
+            text-align: center;
+            margin-top: 16px;
+            border-radius: 2px;
+            }
+
+.fnav .right{
+             display: flex;
+              margin-top: 16px;
+             }
+
+.right p{
+         margin-inline: 22px;
+         font-size: 22px;  
+        }
+
+.right button{
+              margin-inline: 22px;
+              width: 80px;
+              height: 27px;
+              border: none;
+              border-radius: 2px;
+              background-color: rgb(251, 59, 91);
+              color: white;
+             }
+
+.right i{
+          margin-inline: 22px;
+          font-size: 22px;
+         }
+
+.sec-nav{
+          display: flex;
+          justify-content: center;
+          justify-content: space-around;
+          padding: 11px;
+          background-color: rgb(26,26,48);
+          color: white;
+         } 
+
+.sec-nav .s-left{
+                 display: flex;
+                }
+
+.sec-nav .s-right{
+                 display: flex;
+                 }
+
+.sec-nav p:hover{
+                color: rgb(245, 70, 99);
+                cursor: pointer;
+                font-weight: 600;
+                }
+
+.s-left p{
+          margin-inline: 16px;
+         }
+
+.s-right p{
+           margin-inline: 16px;
+          }
+
+.main img{
+         width: 100%;
+         }
+
+.container h2{
+              text-align: center;
+              padding: 22px;
+             }
+
+.container .card{
+                 display: flex;
+                 justify-content: center;
+                 justify-content: space-around;
+                }
+
+.card img{
+         width: 17%;
+         margin-block: 15px;
+         border-radius: 5px;
+        }
+
+.banner img{
+            width: 100%;
+            margin-top: 44px;
+           }
+
+.premiere{
+          background-color: rgb(8, 8, 19);
+          color: white;
+          padding: 33px;
+          margin-top: 44px;
+         } 
+
+.container .card {
+                 margin-top: 11px;
+                 }
+
+.footer{
+        background-color: rgb(51, 51, 56);
+        padding: 33px;
+        margin-top: 44px;
+        }
+
+.footer img{
+            width: 22%;
+            margin-left: 39%;
+            margin-bottom: 20px;
+           }
+
+.footer .icon{
+             display: flex;
+             text-align: center;
+             justify-content: center;
+             }
+
+.icon i{
+        margin-inline:22px ;
+        font-size: 25px;
+        font-size: 36px;  
+        }
+
+.footer-left1
+            {
+                display: flex;
+                justify-content:start;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }        
+ 
+ .footer-left2
+            {
+                display: flex;
+                justify-content:start;
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }               
+  
+ .footer-left3
+ {
+     display: flex;
+     justify-content:start;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }   
+
+ .footer-left4
+ {
+     display: flex;
+     justify-content:start;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }  
+
+ .footer-left5
+ {
+     display: flex;
+     justify-content:start;
+     margin-top: 10px;
+     margin-bottom: 10px;
+ } 
+ 
+ 
+         
